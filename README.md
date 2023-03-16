@@ -1,6 +1,6 @@
 # Figma Landing Page
 
-You can find the complete Figma file [here](https://www.figma.com/file/sBvzHvPyYqkpjktGBXZPWj/Mahyar_sabouniaghdam_figma_project?node-id=0%3A1&t=ia8kCxYKvZj8dlE7-1).
+
 
 
 
